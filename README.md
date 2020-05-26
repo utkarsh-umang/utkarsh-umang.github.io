@@ -1,2 +1,2 @@
-# utkarsh-umang.github.io
+# utkarsh-umang
 For Practice 
